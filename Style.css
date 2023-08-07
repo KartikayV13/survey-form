@@ -1,0 +1,26 @@
+ body{
+
+    background-color: cadetblue;
+    background-image: url('https://thumbs.dreamstime.com/b/survey-tablet-computer-man-holding-134040615.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+    
+    
+ }
+ h2{
+   text-align: center;
+ }
+ form{
+  font-family: cursive;
+
+   max-width: 400px;
+   max-height: auto;
+   padding: 50px;
+   border: 4px solid #0a0606;
+   background-color: transparent;
+   border-radius: 20px; 
+   opacity: 0.9;
+  }
